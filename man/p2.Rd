@@ -59,7 +59,7 @@ will simply return that number.
 }
 
 \section{FibNext}{
-This function generates the next number of the Fibonacci sequence given a preceding number, \code{x}).
+This function generates the next number of the Fibonacci sequence given a preceding number, \code{x}.
 The ratio of any two consecutive entries in the Fibonacci sequence rapidly approaches \mjeqn{\varphi}{ascii}.
 \code{x} is multipled by \mjeqn{\varphi}{ascii} and rounded to the nearest integer to obtain the next number in sequence.
 
